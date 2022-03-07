@@ -1,0 +1,34 @@
+body {
+  margin: 100px;
+}
+.login-form {
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+}
+#transition-area {
+  display: none;
+}
+.status {
+  padding: 10px;
+  margin: 0px 20px;
+  border-radius: 10px;
+  color: white;
+}
+.deposit {
+  background-color: rgb(83, 83, 175);
+}
+.withdrow {
+  background-color: rgba(214, 120, 111, 0.979);
+}
+.balance {
+  background-color: rgb(223, 144, 41);
+}
+.row {
+  margin: 20px;
+}
+.box {
+  margin-top: 40px;
+  padding: 40px;
+  box-shadow: 5px 5px 10px gray;
+  border-radius: 10px;
+}
